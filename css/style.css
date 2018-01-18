@@ -1,0 +1,63 @@
+header{
+    margin-bottom:2px;
+}
+#dropdown1 a{
+    font-size: 15px !important;
+}
+.item:hover{
+    opacity: 0.8;
+}
+.slide-card{
+    width: 250px;
+}
+.card img{
+    padding:0;
+}
+.card p{
+    margin:0;
+    padding:0;
+}
+.discount{
+    text-decoration: line-through;
+}
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.product .material-icons,.carousel .material-icons{
+    font-size:17px;
+}
+.carousel-item{
+    margin:0;
+}
+/* About Section */
+#about img{
+    height: 200px !important;
+    width:100%;
+}
+/*About Section */
+
+footer a{
+    padding:5px;
+}
+
+#Reviews p .material-icons{
+    margin:0 !important;
+    font-size: 15px;
+}
+#Reviews p{
+    margin:0 !important;
+}
+#Reviews h5{
+    font-size: 20px;
+}
+#Reviews h5 span{
+    font-size: 17px;
+}
+@media (max-width:768px){
+    .slider h3{ font-size:1.7em !important;}
+    .slider h5{ font-size:1.4em !important;}
+}
